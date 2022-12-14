@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC3-CreateQueue", "UC3-CreateQueue.csproj", "{8B802C05-977F-449C-90DB-46FD85355D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B802C05-977F-449C-90DB-46FD85355D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B802C05-977F-449C-90DB-46FD85355D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B802C05-977F-449C-90DB-46FD85355D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B802C05-977F-449C-90DB-46FD85355D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C8960A-7012-464A-8404-7B5924820B10}
+	EndGlobalSection
+EndGlobal
